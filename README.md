@@ -14,6 +14,8 @@ Leveraging 10+ years of high-end IELTS coaching expertise, DreamOral captures th
 - **Q2 2026:** Beta Launch for high-end IELTS & Ivy League interview prep.
 - **Q3 2026:** Integration with Harvard i-lab resources for global scaling and NLP refinement.
 
+
+**Visual Prototype (v0):** https://v0.app/chat/dream-oral-app-design-gzfjmBLkSye
 ---
 *"We don't just fix grammar; we build the muscle memory for dreams."*
 
