@@ -17,4 +17,4 @@ Leveraging 10+ years of high-end IELTS coaching expertise, DreamOral captures th
 ---
 *"We don't just fix grammar; we build the muscle memory for dreams."*
 
-**Founder:** Lonna (Na Lou) | *English Educator & Education Entrepreneur*
+**Founder:** Lonna (Na Lou) | *English Educator & Education Entrepreneur*|Harvard ME.d
